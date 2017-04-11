@@ -1,0 +1,10 @@
+D:\Загрузки\oop1_1_0\oop1.1\ListLib\bin\Debug\ListLib.dll
+D:\Загрузки\oop1_1_0\oop1.1\ListLib\bin\Debug\ListLib.pdb
+D:\Загрузки\oop1_1_0\oop1.1\ListLib\obj\Debug\ListLib.csprojResolveAssemblyReference.cache
+D:\Загрузки\oop1_1_0\oop1.1\ListLib\obj\Debug\ListLib.dll
+D:\Загрузки\oop1_1_0\oop1.1\ListLib\obj\Debug\ListLib.pdb
+C:\Users\User\Desktop\oop1.1\ListLib\bin\Debug\ListLib.dll
+C:\Users\User\Desktop\oop1.1\ListLib\bin\Debug\ListLib.pdb
+C:\Users\User\Desktop\oop1.1\ListLib\obj\Debug\ListLib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\oop1.1\ListLib\obj\Debug\ListLib.dll
+C:\Users\User\Desktop\oop1.1\ListLib\obj\Debug\ListLib.pdb

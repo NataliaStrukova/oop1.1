@@ -1,0 +1,59 @@
+F:\ООП 2\oop1.1\oop1.1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ООП 2\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormList.resources
+F:\ООП 2\oop1.1\oop1.1\obj\x86\Debug\oop1._1.Properties.Resources.resources
+F:\ООП 2\oop1.1\oop1.1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ООП 2\oop1.1\oop1.1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormList.resources
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1._1.Properties.Resources.resources
+F:\ООП 2\задачи\oop1.1\oop1.1\bin\Debug\oop1.1.exe
+F:\ООП 2\задачи\oop1.1\oop1.1\bin\Debug\oop1.1.pdb
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1.1.exe
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1.1.pdb
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1._1.Classes.FormSubList.resources
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlInt.resources
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlStr.resources
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ООП 2\задачи\oop1.1\oop1.1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\bin\Debug\oop1.1.exe
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\bin\Debug\oop1.1.pdb
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1.1.csprojResolveAssemblyReference.cache
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormList.resources
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1._1.Properties.Resources.resources
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlInt.resources
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlStr.resources
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1.1.csproj.GenerateResource.Cache
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1.1.exe
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1.1.pdb
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormSubList.resources
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\bin\Debug\oop1.1.exe.config
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\bin\Debug\ListLib.dll
+D:\Загрузки\oop1_1_0\oop1.1\oop1.1\bin\Debug\ListLib.pdb
+D:\oop1.1\oop1.1\bin\Debug\oop1.1.exe.config
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1.1.exe
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1.1.pdb
+D:\oop1.1\oop1.1\bin\Debug\oop1.1.exe
+D:\oop1.1\oop1.1\bin\Debug\oop1.1.pdb
+D:\oop1.1\oop1.1\bin\Debug\ListLib.dll
+D:\oop1.1\oop1.1\bin\Debug\ListLib.pdb
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1.1.csprojResolveAssemblyReference.cache
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormSubList.resources
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormList.resources
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1._1.Properties.Resources.resources
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlInt.resources
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlStr.resources
+D:\oop1.1\oop1.1\obj\x86\Debug\oop1.1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\oop1.1\oop1.1\bin\Debug\oop1.1.exe.config
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1.1.exe
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1.1.pdb
+C:\Users\User\Desktop\oop1.1\oop1.1\bin\Debug\oop1.1.exe
+C:\Users\User\Desktop\oop1.1\oop1.1\bin\Debug\oop1.1.pdb
+C:\Users\User\Desktop\oop1.1\oop1.1\bin\Debug\ListLib.dll
+C:\Users\User\Desktop\oop1.1\oop1.1\bin\Debug\ListLib.pdb
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1.1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormSubList.resources
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1._1.FormList.resources
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1._1.Properties.Resources.resources
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlInt.resources
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1._1.UserControlStr.resources
+C:\Users\User\Desktop\oop1.1\oop1.1\obj\x86\Debug\oop1.1.csproj.GenerateResource.Cache
